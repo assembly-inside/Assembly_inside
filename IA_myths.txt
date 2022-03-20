@@ -40,4 +40,4 @@ significado de uma palavra, e muito menos compreende todas as sutilizas envolvid
 Enfim, a tradução da linguagem humana, com toda a sua complexida, ainda é algo que está além da capacidade de um computador resolver, pois diversas vezes isso 
 envolve uma questão de consiência sobre o que uma palavra, ou uma frase, quer dizer. Traduzir uma linguagem humana para outra linguagem humana exige, 
 diversas vezes, a compreenão do que está sendo traduzido, e por isso um algoritmo não é capaz criar uma boa tradução quando o texto é mais complexo. 
-Para traduzir frases mais simples o tradudor funciona, mas para textos mais complexos é obvio que um ser conciente vai presis revisar a tradução.
+Para traduzir frases mais simples o tradudor funciona, mas para textos mais complexos é obvio que um ser conciente vai precisar revisar a tradução.
