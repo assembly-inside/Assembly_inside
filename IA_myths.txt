@@ -1,6 +1,6 @@
 A Inteligência Artificial envolvida na tradução de textos
 
-Até agora nenhum aplicativo de tradução é capaz de traduzir, com perfeição, tods a complexida e as sutilezas envolvidas na tradução das linguagens humanas. 
+Até agora nenhum aplicativo de tradução é capaz de traduzir, com perfeição, toda a complexidade e as sutilezas envolvidas na tradução das linguagens humanas. 
 Traduzir uma linguagem humana para outra linguagem humana ainda é uma tarefa demasiadamente complexa para algoritmos de computador conseguirem 
 resolver, portanto, pelo menos por enquanto, só o cérebro humano consegue “compilar” uma linguagem humana para outra linguagem humana com 
 perfeição. E por um motivo um tanto óbvio, temos consciência, e isso nos permite compreender ou traduzir a linguagem humana. Como um 
