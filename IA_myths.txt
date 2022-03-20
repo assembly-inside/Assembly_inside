@@ -1,0 +1,37 @@
+A Inteligência Artificial envolvida na tradução de textos
+
+Até agora nenhum aplicativo de tradução é capaz de traduzir, com perfeição, todas as variáveis envolvidas na tradução das linguagens humanas. 
+Traduzir uma linguagem humana para outra linguagem humana ainda é uma tarefa demasiadamente complexa para algoritmos de computador conseguirem 
+resolver, portanto, pelo menos por enquanto, só o cérebro humano consegue “compilar” uma linguagem humana para outra linguagem humana com 
+perfeição. E por um motivo um tanto óbvio, temos consciência, e isso nos permite compreender ou traduzir a linguagem humana. Como um 
+computador não tem consciência ele não compreende o significado de uma única palavra da linguagem humana, e muito menos 
+é capaz de compreender uma frase ou um texto.
+O computador nem se quer é capaz de compreender as linguagens que foram criadas para ele mesmo.  
+Executar comandos que foram programados e compreender o que esses comandos significam é algo completamente diferente.
+Para compreender alguma coisa é preciso ter consciência, algo que um computador não possui, portanto ele não compreende 
+a linguagem BASIC, ou linguagem C, ou linguagem Pascal, etc. Ele apenas executa os comandos dessas linguagens.  
+E as únicas linguagens que os computadores conseguem traduzir, com perfeição, são as linguagens criadas para o próprio computador. 
+A compilação de um programa de computador é na realidade uma tradução de uma linguagem de computador para outra linguagem de computador. 
+E todas as linguagens de computador de alto nível sempre acabam traduzidas (compiladas) para a única linguagem capaz de fazer o 
+computador funcionar corretamente, a linguagem de máquina. 
+E, repito novamente, o computador não compreende a linguagem de máquina, ele apenas executa os comandos dessa linguagem através 
+de uma gigantesca e complexa rede de portas lógicas chamada CPU.  
+Então, quando você estiver conservando com uma máquina lembre-se de uma coisa básica, essa máquina não compreende o que você está falando, 
+pois ela não tem consciência. O que ela faz é executar uma infinidade de comandos na primeira camada de linguagem que controla a CPU, 
+e essa camada de linguagem chama-se linguagem de máquina.
+Portanto, por mais convincente, e “inteligente”, que possa parecer a conversar você tem com essa máquina não se iluda, 
+essa máquina não compreende uma única palavra do que você diz. A única parte consciente, por traz do “comportamento inteligente” pré-programado dessa máquina, 
+é o programador da máquina. 
+É, eu sei, sou um estraga prazer da ficção científica e dos sonhadores que acreditam que a Inteligência Artificial possa alcançar a capacidade 
+de compreender a realidade, e assim se tornar auto consciente.
+Mas, se você estudar a fundo o funcionamento da CPU vai chegar a uma conclusão realista sobre esse dispositivo eletrônico. A Inteligência Artificial, 
+e o seu modo de auto aprendizagem, não são nada mais do que uma expansão do tratamento das variáveis incluídas na programação dos dispositivos eletrônicos. 
+O programador pode incluir rotinas que vão flexibilizar a forma como o processador vai lidar com as variáveis, ou seja, a auto aprendizagem da
+Inteligência Artificial é uma mudança na forma sobre o processamento de uma variável, ou no processamento de diversas variáveis, permitindo assim 
+um resultado diferente apesar do programa ser o mesmo. Na tal aprendizagem profunda pode ocorrer uma retroalimentação do resultado das variáveis
+provocando assim um reprocessamento, mas mesmo assim o programa continua mesmo. 
+Isso quer dizer a aprendizagem que uma Inteligência Artificial exerce não altera o programa em si, altera apenas a forma como esse programa vai processar as variáveis.  
+E por que uma Inteligência Artificial não consegue, ou não pode, alterar o programa por si mesma?
+Por que só o programador, que é um ser consciência, consegue compreender o que os comandos de uma linguagem de computador são capazes de fazer na CPU. 
+A Inteligência Artificial não é consciente e portando ela não saberia como programar o computador, 
+pois ela não compreende o que cada comando faz, e muito menos seria capaz de compreender a linguagem humana. 
