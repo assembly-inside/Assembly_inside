@@ -35,9 +35,9 @@ E por que uma Inteligência Artificial não consegue, ou não pode, alterar o pr
 Por que só o programador, que é um ser consciência, consegue compreender o que os comandos de uma linguagem de computador são capazes de fazer na CPU. 
 A Inteligência Artificial não é consciente e portando ela não saberia como programar o computador, 
 pois ela não compreende o que cada comando faz, e muito menos seria capaz de compreender a linguagem humana. 
-E por isso os aplicativos de tradução produzem uma tradução mediocre de textos mais complexos para outras linguagens, pois o aplicativo não compreende o 
+E por isso os aplicativos de tradução produzem uma tradução medíocre de textos mais complexos para outras linguagens, pois o aplicativo não compreende o 
 significado de uma palavra, e muito menos compreende todas as sutilizas envolvidas de uma determinada expressão ou frase, e o contexto em que essa expressão está inserido. 
-Enfim, a tradução da linguagem humana, com toda a sua complexida, ainda é algo que está além da capacidade de um computador resolver, pois diversas vezes isso 
-envolve uma questão de consiência sobre o que uma palavra, ou uma frase, quer dizer. Traduzir uma linguagem humana para outra linguagem humana exige, 
-diversas vezes, a compreenão do que está sendo traduzido, e por isso um algoritmo não é capaz criar uma boa tradução quando o texto é mais complexo. 
-Para traduzir frases mais simples o tradudor funciona, mas para textos mais complexos é obvio que um ser conciente vai precisar revisar a tradução.
+Enfim, a tradução da linguagem humana, com toda a sua complexidade, ainda é algo que está além da capacidade de um computador resolver, pois diversas vezes isso 
+envolve uma questão de consciência sobre o que uma palavra, ou uma frase, quer dizer. Traduzir uma linguagem humana para outra linguagem humana exige, 
+diversas vezes, a compreensão do que está sendo traduzido, e por isso um algoritmo não é capaz criar uma boa tradução quando o texto é mais complexo. 
+Para traduzir frases mais simples o tradutor funciona, mas para textos mais complexos é obvio que um ser consciente vai precisar revisar a tradução.
