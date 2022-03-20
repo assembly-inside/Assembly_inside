@@ -29,7 +29,7 @@ e o seu modo de auto aprendizagem, não são nada mais do que uma expansão do t
 O programador pode incluir rotinas que vão flexibilizar a forma como o processador vai lidar com as variáveis, ou seja, a auto aprendizagem da
 Inteligência Artificial é uma mudança na forma sobre o processamento de uma variável, ou no processamento de diversas variáveis, permitindo assim 
 um resultado diferente apesar do programa ser o mesmo. Na tal aprendizagem profunda pode ocorrer uma retroalimentação do resultado das variáveis
-provocando assim um reprocessamento, mas mesmo assim o programa continua mesmo. 
+provocando assim um reprocessamento, mas mesmo assim o programa continua o mesmo. 
 Isso quer dizer a aprendizagem que uma Inteligência Artificial exerce não altera o programa em si, altera apenas a forma como esse programa vai processar as variáveis.  
 E por que uma Inteligência Artificial não consegue, ou não pode, alterar o programa por si mesma?
 Por que só o programador, que é um ser consciência, consegue compreender o que os comandos de uma linguagem de computador são capazes de fazer na CPU. 
