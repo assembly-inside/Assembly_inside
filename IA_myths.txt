@@ -1,6 +1,6 @@
 A Inteligência Artificial envolvida na tradução de textos
 
-Até agora nenhum aplicativo de tradução é capaz de traduzir, com perfeição, todas as variáveis envolvidas na tradução das linguagens humanas. 
+Até agora nenhum aplicativo de tradução é capaz de traduzir, com perfeição, tods a complexida e as sutilezas envolvidas na tradução das linguagens humanas. 
 Traduzir uma linguagem humana para outra linguagem humana ainda é uma tarefa demasiadamente complexa para algoritmos de computador conseguirem 
 resolver, portanto, pelo menos por enquanto, só o cérebro humano consegue “compilar” uma linguagem humana para outra linguagem humana com 
 perfeição. E por um motivo um tanto óbvio, temos consciência, e isso nos permite compreender ou traduzir a linguagem humana. Como um 
@@ -19,8 +19,8 @@ de uma gigantesca e complexa rede de portas lógicas chamada CPU.
 Então, quando você estiver conservando com uma máquina lembre-se de uma coisa básica, essa máquina não compreende o que você está falando, 
 pois ela não tem consciência. O que ela faz é executar uma infinidade de comandos na primeira camada de linguagem que controla a CPU, 
 e essa camada de linguagem chama-se linguagem de máquina.
-Portanto, por mais convincente, e “inteligente”, que possa parecer a conversar você tem com essa máquina não se iluda, 
-essa máquina não compreende uma única palavra do que você diz. A única parte consciente, por traz do “comportamento inteligente” pré-programado dessa máquina, 
+Portanto, por mais convincente, e “inteligente”, que possa parecer a conversar que você tem com essa máquina não se iluda, 
+essa máquina não compreende uma única palavra do que você diz. A única parte consciente, por traz do “comportamento inteligente” dessa máquina, 
 é o programador da máquina. 
 É, eu sei, sou um estraga prazer da ficção científica e dos sonhadores que acreditam que a Inteligência Artificial possa alcançar a capacidade 
 de compreender a realidade, e assim se tornar auto consciente.
@@ -35,3 +35,9 @@ E por que uma Inteligência Artificial não consegue, ou não pode, alterar o pr
 Por que só o programador, que é um ser consciência, consegue compreender o que os comandos de uma linguagem de computador são capazes de fazer na CPU. 
 A Inteligência Artificial não é consciente e portando ela não saberia como programar o computador, 
 pois ela não compreende o que cada comando faz, e muito menos seria capaz de compreender a linguagem humana. 
+E por isso os aplicativos de tradução produzem uma tradução mediocre de textos mais complexos para outras linguagens, pois o aplicativo não compreende o 
+significado de uma palavra, e muito menos compreende todas as sutilizas envolvidas de uma determinada expressão ou frase, e o contexto em que essa expressão está inserido. 
+Enfim, a tradução da linguagem humana, com toda a sua complexida, ainda é algo que está além da capacidade de um computador resolver, pois diversas vezes isso 
+envolve uma questão de consiência sobre o que uma palavra, ou uma frase, quer dizer. Traduzir uma linguagem humana para outra linguagem humana exige, 
+diversas vezes, a compreenão do que está sendo traduzido, e por isso um algoritmo não é capaz criar uma boa tradução quando o texto é mais complexo. 
+Para traduzir frases mais simples o tradudor funciona, mas para textos mais complexos é obvio que um ser conciente vai presis revisar a tradução.
