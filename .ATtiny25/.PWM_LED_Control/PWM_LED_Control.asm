@@ -1,12 +1,6 @@
 ; Controla o brilho de um LED usando duas chaves (sem usar interrupção)  
 ; A chave key UP (pino 2) aumenta o ciclo ativo do PWM.  
 ; E a chave key DOWN (pino 7) diminui o ciclo ativo do PWM. 
-; As duas chaves estão conectadas ao GND e ao pino correspondente. 
-; Para manter cada uma das entrada das chaves em nível alto são usados 
-; dois resistores pullup de 10K ligados ao Vcc. 
-; O cátodo do LED está ligado ao GND, e o ânodo do LED     
-; está ligado ao pino 5 através de um resistor limitador 
-; de corrente (470 ohms para um LED super brilhoso) 
 ;
 ; Para evitar o efeito debounce das chaves (repique)
 ; foram usados varios atrasos de 100ms.
@@ -67,8 +61,8 @@
 ;------------------------------------------------------------------------------
 .dseg
 .org SRAM_START
- ; (sem uso de RAM para variáveis específicas nesse programa, RAM 
- ; usada apenas para a pilha)
+ ; sem uso de RAM para variáveis específicas nesse programa,  
+ ; RAM usada apenas para a pilha
  ; label: 
  ; .byte 16 ; Reserva 16 bytes
 
@@ -111,7 +105,7 @@ out DDRB, r16 ; PB0 é saída e o restante dos pinos é entrada
 ldi r16, 0b11110010 ; configura pullups internos, exceto PB0,PB2 e PB3
 out PORTB, r16 ; e ativa saída 
 
-; Configura os limites mínimo e máximo da 
+; Configura os limites mínimo e máximo  
 ; do PWM que controla a intensidade do brilho do LED 
 ; 256 níveis de variação do ciclo de trabalho do PWM 
 
